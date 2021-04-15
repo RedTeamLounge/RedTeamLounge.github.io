@@ -5,7 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   The Red Team Lounge is a Discord Red Teaming community.
 show_excerpts: false # set to true to show excerpts on the homepage
-
+google_analytics: UA-155379568-12
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
