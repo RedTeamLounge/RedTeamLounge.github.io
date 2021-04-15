@@ -16,9 +16,10 @@ title: Invite
     <li>We love discussing via voice chat security-related topics.</li>
     <li>We are happy you joined us.</li>
 </ol>
+<a href="https://discord.gg/68pqHX8UHZ" id="button-no-popup" style="display: none;">button</a>
 
 <script>
 var newWin = window.open('https://discord.gg/68pqHX8UHZ','popup','width=600,height=600,scrollbars=no,resizable=no');
-if(!newWin || newWin.closed || typeof newWin.closed=='undefined') window.location('https://discord.gg/68pqHX8UHZ', '_blank')
+if(!newWin || newWin.closed || typeof newWin.closed=='undefined') document.getElementById("button-no-popup").click()
 
 </script>
