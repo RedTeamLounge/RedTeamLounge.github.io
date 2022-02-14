@@ -9,9 +9,6 @@ layout: home
 title: Home
 ---
 
-The Red Team Lounge is an amazing community where you can find a lot of experienced security researcher.
-
-- Monthly Clash of Code events
-- Daily security-related voice chat conversations
+The Red Team Lounge is an amazing community for current and future professionals.
 
 <a href="/invite">Join today</a>
